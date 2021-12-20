@@ -1,2 +1,3 @@
 cnpm install
-yarn redwood dev
+cnpm install -g redwood
+yarn redwood build
