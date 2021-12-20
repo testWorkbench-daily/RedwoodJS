@@ -1,3 +1,3 @@
 cnpm install
-cnpm install -g redwood/cli
+cnpm install -g redwood--cli
 yarn redwood build
